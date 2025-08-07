@@ -1,3 +1,5 @@
 main:
   - title: "サポート"
     url: /support/
+  - title: "プライバシー"
+    url: /privacy/

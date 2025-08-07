@@ -193,5 +193,10 @@ author_profile: false
     <a href="mailto:daegunkor@gmail.com" class="email-link">
       daegunkor@gmail.com
     </a>
+    <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #eee;">
+      <p style="font-size: 0.9rem; color: #888;">
+        <a href="/privacy/" style="color: #007AFF; text-decoration: none;">プライバシーポリシー</a>もご確認ください。
+      </p>
+    </div>
   </div>
 </div>
