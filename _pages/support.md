@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "App Support"
+title: "アプリサポート"
 permalink: /support/
 author_profile: false
 ---
@@ -152,8 +152,8 @@ author_profile: false
 
 <div class="app-support">
   <div class="header">
-    <h1>App Support</h1>
-    <p>생산성을 위한 미니멀 앱들</p>
+    <h1>アプリサポート</h1>
+    <p>生産性のためのミニマルアプリ</p>
   </div>
 
   <div class="apps-grid">
@@ -162,11 +162,11 @@ author_profile: false
         <div class="app-icon">書</div>
         <div class="app-info">
           <h3>書く (Kaku)</h3>
-          <span class="category">생산성</span>
+          <span class="category">生産性</span>
         </div>
       </div>
       <div class="app-description">
-        <p>간단하고 직관적인 메모 작성 앱입니다. 일상의 생각과 아이디어를 빠르게 기록하고 정리할 수 있습니다. 미니멀한 인터페이스로 글쓰기에만 집중할 수 있도록 도와줍니다.</p>
+        <p>シンプルで直感的なメモ作成アプリです。日常の思考やアイデアを素早く記録・整理できます。ミニマルなインターフェースで文章作成に集中できるようサポートします。</p>
       </div>
     </div>
 
@@ -175,20 +175,20 @@ author_profile: false
         <div class="app-icon yomu">読</div>
         <div class="app-info">
           <h3>読む (Yomu)</h3>
-          <span class="category">생산성</span>
+          <span class="category">生産性</span>
         </div>
       </div>
       <div class="app-description">
-        <p>효율적인 읽기와 메모 관리를 위한 앱입니다. 읽은 내용을 체계적으로 정리하고, 중요한 정보를 쉽게 찾아볼 수 있습니다. 지식 축적과 관리를 도와주는 스마트한 도구입니다.</p>
+        <p>効率的な読書とメモ管理のためのアプリです。読んだ内容を体系的に整理し、重要な情報を簡単に見つけられます。知識の蓄積と管理をサポートするスマートなツールです。</p>
       </div>
     </div>
   </div>
 
   <div class="contact-section">
-    <h2>문의사항</h2>
+    <h2>お問い合わせ</h2>
     <p>
-      앱 사용 중 문제가 발생하거나 궁금한 점이 있으시면<br>
-      언제든지 아래 이메일로 연락 주세요.
+      アプリの使用中に問題が発生した場合や<br>
+      ご質問がございましたら、お気軽に下記のメールアドレスまでご連絡ください。
     </p>
     <a href="mailto:daegunkor@gmail.com" class="email-link">
       daegunkor@gmail.com

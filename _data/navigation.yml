@@ -1,5 +1,3 @@
 main:
-  - title: "Posts"
-    url: /
-  - title: "Support"
+  - title: "サポート"
     url: /support/
